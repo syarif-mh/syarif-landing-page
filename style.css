@@ -31,6 +31,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    gap: 8px;
 }
 
 #text-intro {
@@ -49,6 +50,8 @@ body {
 .welcome-section {
     display: flex;
     justify-content: space-between;
+    gap: 24px;
+    align-items: center;
     padding: 96px 0;
 }
 
